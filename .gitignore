@@ -1,0 +1,10 @@
+# Compiled C++ files
+*.o
+*.obj
+*.exe
+
+# IDE temporary files
+*.layout
+
+# Temporary files
+*.tmp
